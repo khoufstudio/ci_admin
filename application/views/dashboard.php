@@ -1,1 +1,1 @@
-<p>Ini adalah halaman dashboard yang baru lagi dan lagii</p>
+<p>Ini adalah halaman dashboard yang baru lagi</p>
